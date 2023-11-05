@@ -1,10 +1,17 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import CapturePage from './pages/capture/CapturePage';
 
 function App() {
   return (
-    <BrowserRouter>
-    </BrowserRouter>
+    <>
+      <BrowserRouter>
+        <Routes>
+          <Route element={ <CapturePage /> } path='/' />
+        </Routes>
+      </BrowserRouter>
+    </>
+
   );
 }
 
