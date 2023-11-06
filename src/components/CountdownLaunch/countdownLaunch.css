@@ -1,0 +1,29 @@
+.countdownLaunch-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.titleCountdown-container {
+    text-align: center;
+    line-height: 7rem;
+}
+.titleDaysLeft {
+    margin: 0;
+    font-size: 1.6rem;
+    opacity: 60%;
+    letter-spacing: 1rem;
+}
+.titleNumberOfDaysLeft {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 12rem;
+    font-weight: 400;
+    font-size: 14rem;
+    letter-spacing: -1rem;
+    background: linear-gradient(92deg, rgba(220, 199, 248, 0.84) 52.15%, #BFB9C7 110.41%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
