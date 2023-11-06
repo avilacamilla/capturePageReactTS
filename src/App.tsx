@@ -9,7 +9,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route element={ <CapturePage /> } path='/' />
-          <Route  element={ <ThanksPage /> } path='thanks'/>
+          <Route  element={ <ThanksPage /> } path='/thanks'/>
         </Routes>
       </BrowserRouter>
     </>
