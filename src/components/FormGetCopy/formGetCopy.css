@@ -6,10 +6,13 @@
     width: 100%;
 }
 .input-styles {
-    width: 70%;
-    height: 3rem;
+    width: 62%;
+    height: 3.4rem;
     padding: .5rem;
     border-radius: 7px;
     background: rgba(217, 217, 217, 0.85);
-    background-color: #cccccc7e;
+}
+.input-styles input::placeholder {
+    font-family: Sora, sans-serif;
+    color: #575757;
 }

@@ -1,0 +1,29 @@
+.buttonGetCopy-container {
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0 0 0;
+    width: 100%;
+}
+.btnActGetCopy {
+    width: 62%;
+    height: 4rem;
+    border: none;
+    border-radius: 3rem;
+    font-size: 1.55rem;
+    font-weight: 600;
+    color: #FEFEFE;
+    cursor: pointer;
+    background-image: linear-gradient(to right, #780EFF, rgb(147, 9, 181)); /* Gradiente horizontal com a cor de fundo */
+    background-size: 200% 100%; /* Tamanho do gradiente */
+    transition: background-position 0.3s; /* Duração da transição */
+  
+    /* Defina a cor de fundo inicial */
+    background-color: transparent;
+    background-position: 0 0;
+  }
+  
+  /* Estilize o botão no hover */
+  .btnActGetCopy:hover {
+    background-position: 100% 0; /* Move o gradiente para a direita no hover */
+    background-color: #780EFF; /* Cor de fundo final */
+  }
