@@ -7,8 +7,12 @@ const FormGetCopy = () => {
     return (
         <div className="formGetCopy-container">
             <Input 
-                placeholder="Type in here…"
-                classes={{ root: 'your-custom-class' }}
+                placeholder="Seu nome"
+                classes={{ root: 'input-styles' }}
+            />
+            <Input 
+                placeholder="Seu melhor e-mail"
+                classes={{ root: 'input-styles' }}
             />
         </div>
     )

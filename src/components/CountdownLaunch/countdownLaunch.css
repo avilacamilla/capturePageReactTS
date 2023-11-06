@@ -18,11 +18,12 @@
     justify-content: center;
     align-items: center;
     margin: 0;
+    width: 45rem;
     height: 12rem;
     font-weight: 400;
     font-size: 14rem;
     letter-spacing: -1rem;
-    background: linear-gradient(92deg, rgba(220, 199, 248, 0.84) 52.15%, #BFB9C7 110.41%);
+    background: linear-gradient(92deg, rgba(220, 199, 248, 0.84) 52.15%, #321e4c 110.41%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

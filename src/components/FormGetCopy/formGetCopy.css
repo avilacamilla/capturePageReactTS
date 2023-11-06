@@ -1,5 +1,15 @@
-.your-custom-class {
+.formGetCopy-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+.input-styles {
+    width: 70%;
+    height: 3rem;
     padding: .5rem;
-    border-radius: .5rem;
+    border-radius: 7px;
+    background: rgba(217, 217, 217, 0.85);
     background-color: #cccccc7e;
 }
