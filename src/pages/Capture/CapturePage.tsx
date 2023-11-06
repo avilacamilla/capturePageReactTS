@@ -3,6 +3,7 @@ import CountdownLaunch from '../../components/CountdownLaunch/CountdownLaunch';
 import FormGetCopy from '../../components/FormGetCopy/FormGetCopy';
 import ButtonGetCopy from '../../components/ButtonGetCopy/ButtonGetCopy';
 import './capturePage.css';
+import MockUpBook from '../../components/MockUpBook/MockUpBook';
 
 const CapturePage = () => {
     return (
@@ -13,7 +14,7 @@ const CapturePage = () => {
                 <ButtonGetCopy />
             </div>
            <div className="rightSide-container">
-            
+                <MockUpBook />
            </div>
         </div>
     )

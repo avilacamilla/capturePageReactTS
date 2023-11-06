@@ -1,0 +1,19 @@
+.mockUpBook-container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.mockUpBook {
+    width: 80%;
+    border-radius: 15rem;
+    transform: translateX(100%); /* Move a imagem para fora da tela à direita */
+    transition: transform 2s ease; /* Transição suave de 2 segundos */
+    animation: slide-in 2s ease 1 forwards; /* Aplica a animação slide-in */
+  }
+  
+  @keyframes slide-in {
+    to {
+      transform: translateX(0); /* Move a imagem para a posição atual */
+    }
+}
