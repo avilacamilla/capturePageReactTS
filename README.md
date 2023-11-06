@@ -2,9 +2,9 @@
 
 [Em desenvolvimento! ⚠️]
 
-Bem-vindo ao meu projeto ReactJS com TypeScript! Neste projeto, criei uma aplicação web responsiva com duas páginas: uma página de captura onde os clientes podem se inscrever para receber uma cópia gratuita do e-book "Ferramentas para crescer sua startup - Pare de errar" e uma página de agradecimento pela inscrição.
+Bem-vindo ao meu projeto ReactJS com TypeScript! Neste projeto, criei uma aplicação web responsiva com duas páginas: uma página de captura onde os clientes podem se inscrever para receber uma cópia gratuita do e-book "Ferramentas para crescer sua startup" e uma página de agradecimento pela inscrição.
 
-#### Projeto experimental. Todo o design da aplicação foi criado por mim, garantindo uma experiência única para os usuários. Utilizei o Figma para criar o design e implementei o projeto.
+#### Projeto experimental. Todo o design da aplicação foi criado por mim, garantindo uma experiência única para os usuários. Utilizei o Figma para criar o design e implementei o projeto utilizando ReactJS com TypeScript.
 
 
 ![thumb-capturePage](https://github.com/avilafcamilla/up-images2/assets/115038212/76e0c25e-6b62-4636-9b71-2047051a7075)
