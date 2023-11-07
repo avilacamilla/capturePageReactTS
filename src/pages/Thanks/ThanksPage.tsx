@@ -6,7 +6,7 @@ const ThanksPage = () => {
     const [animate, setAnimate] = useState(false);
 
     useEffect(() => {
-        // Ative a animação após um pequeno atraso (por exemplo, 100ms) para garantir que a página tenha renderizado.
+        // Ativa a animação após um pequeno atraso para garantir que a página tenha renderizado**
         setTimeout(() => {
           setAnimate(true);
         }, 100);
