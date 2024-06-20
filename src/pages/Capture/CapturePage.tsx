@@ -1,9 +1,9 @@
 import React from 'react';
 import CountdownLaunch from '../../components/CountdownLaunch/CountdownLaunch';
-import FormGetCopy from '../../components/FormGetCopy/FormGetCopy';
 import ButtonGetCopy from '../../components/ButtonGetCopy/ButtonGetCopy';
 import './capturePage.css';
 import MockUpBook from '../../components/MockUpBook/MockUpBook';
+import { FormGetCopy } from '../../components/FormGetCopy/FormGetCopy';
 
 const CapturePage = () => {
     return (
