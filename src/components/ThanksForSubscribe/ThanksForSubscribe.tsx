@@ -8,6 +8,9 @@ import BtnsSocialMedias from '../BtnsSocialMedias/BtnsSocialMedias';
 const ThanksForSubscribe = () => {
     return(
         <div className="thanksForSubscribe-container">
+            {/* <div className="thanksForSubscribe-hello">
+                <h3 className="subtitleThanksSubscribe">Olá,</h3>
+            </div> */}
             <div className="titleThanks-container">
                 <h1 className="titleThanksSubscribe">Obrigada pela inscrição.</h1>
                 <h3 className="subtitleThanksSubscribe">No dia do lançamento você receberá uma cópia gratuita no e-mail cadastrado!</h3>
